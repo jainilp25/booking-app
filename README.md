@@ -8,4 +8,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-![Alt text](public\BookingAppDemo.png?raw=true "Booking Application")
+![Booking Application](https://github.com/jainilp25/booking-app/blob/master/public/BookingAppDemo.png)
